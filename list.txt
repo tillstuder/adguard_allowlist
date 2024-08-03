@@ -1,5 +1,5 @@
-! Title: Till Studer's Allowlist
-! Description: Allowlist for my personal use
+! Title: Till Studer's Personal AdGuard Allowlist
+! Description: Allowlist for my personal use, so I don't have to maintain it in multiple places.
 ! Source: https://github.com/tillstuder/adguard_allowlist/blob/main/list.txt
 
 @@||securityblog.switch.ch^$important
