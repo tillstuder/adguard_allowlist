@@ -2,6 +2,7 @@
 ! Description: Allowlist for my personal use, so I don't have to maintain it in multiple places.
 ! Source: https://github.com/tillstuder/adguard_allowlist/blob/main/list.txt
 
+! My Rules:
 @@||securityblog.switch.ch^$important
 @@||cyber.wtf^$important
 @@||detect.fyi^$important
@@ -11,3 +12,6 @@
 @@||writing.bobdoto.computer^$important
 @@||redteam.guide^$important
 @@||mela.recipes^$important
+
+! Family Rules:
+@@||www.huettentour.bike^$important
