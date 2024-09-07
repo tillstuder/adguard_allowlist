@@ -12,6 +12,7 @@
 @@||writing.bobdoto.computer^$important
 @@||redteam.guide^$important
 @@||mela.recipes^$important
+@@||switch.ch^$important
 
 ! Family Rules:
 @@||www.huettentour.bike^$important
