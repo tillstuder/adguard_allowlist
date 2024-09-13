@@ -6,6 +6,7 @@
 @@||securityblog.switch.ch^$important
 @@||cyber.wtf^$important
 @@||detect.fyi^$important
+@@||detection.fyi^$important
 @@||n0.lol^$important
 @@||rastamouse.me^$important
 @@||secret.club^$important
