@@ -15,7 +15,6 @@
 @@||mela.recipes^$important
 @@||switch.ch^$important
 @@||kali.download^$important
-@@||goyerbamate.store^$important
 
 ! Family Rules:
 @@||www.huettentour.bike^$important
